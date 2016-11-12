@@ -10,3 +10,5 @@ def oxford_comma(array)
     final3 += ", and " + last
   end
 end
+
+#definitely did this in a way that they didn't want to ask someone how to do it the correct way
